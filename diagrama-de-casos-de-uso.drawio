@@ -1,48 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.8">
   <diagram name="Página-1" id="WZyv0JxouMX_XDlRVS8C">
-    <mxGraphModel>
+    <mxGraphModel dx="1631" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="82" y="162" width="28" height="28" as="geometry" />
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="580" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="89" y="8" width="14" height="14" as="geometry" />
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="IsPositive" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="55" y="72" width="82" height="40" as="geometry" />
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="False" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="19" y="263" width="53" height="40" as="geometry" />
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="True" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="123" y="263" width="47" height="40" as="geometry" />
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.49;entryY=0;" edge="1" parent="1" source="4" target="2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="if n &amp;lt; 0" style="curved=1;startArrow=none;;exitX=0;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="45" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="if n &gt;= 0" style="curved=1;startArrow=none;;exitX=0.99;exitY=1;entryX=0.49;entryY=0;" edge="1" parent="1" source="2" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="146" y="227" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-10" target="Vutzdg3vwc1pvYwfnhsm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-10" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="275" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vutzdg3vwc1pvYwfnhsm-11" target="Vutzdg3vwc1pvYwfnhsm-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-11" value="IA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="275" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vutzdg3vwc1pvYwfnhsm-14" value="Sistema Kaizen" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&amp;nbsp;( ) Criar Tarefa&amp;nbsp;" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-27">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="110" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Concluir Tarefa" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-28">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="160" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Criar Hábito" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-29">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="210" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Registrar Execução de Hábito" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-30">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="260" width="281" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Consultar Recompensas" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-31">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="310" width="271" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Resgatar Recompensa" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-32">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="360" width="221" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Visualizar Estatísticas" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-33">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="410" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Receber Sugestões da IA" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-34">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="460" width="241" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Receber Notificações" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="510" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;( ) Gerar Sugestões de Tarefa ou Hábito" placeholders="1" name="Variable" id="Vutzdg3vwc1pvYwfnhsm-54">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=18;fontStyle=0" vertex="1" parent="1">
+            <mxGeometry x="309" y="564.5" width="341" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
